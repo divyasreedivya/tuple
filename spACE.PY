@@ -5,3 +5,7 @@ Sample Input:
 Sample Output:
 20, 10, 30
 '''
+Ans 
+a=map(int,input().split())
+b=tuple(a)
+print(b)
